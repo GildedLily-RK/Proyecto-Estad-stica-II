@@ -1,12 +1,3 @@
-"""
-PROYECTO ESTADÍSTICA II - UMSA
-Análisis de Métodos y Hábitos de Estudio
-
-Este script replica TODOS los cálculos de las secciones 8 y 9 del documento:
-- Sección 8: Resultados y Análisis (descriptivos e inferenciales)
-- Sección 9: Desarrollo de los Objetivos (pruebas avanzadas)
-"""
-
 import pandas as pd
 import numpy as np
 from scipy import stats
